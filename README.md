@@ -5,6 +5,13 @@ This chatbot, created by **Archita Dhande**, is designed to assist users with fi
 
 This project was developed as part of the **BCG Forage Course on Gen AI Job Simulation**, focusing on leveraging AI for financial analysis and automation.
 
+BCG GenAI Job Simulation on Forage - February 2025
+
+
+ * Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.
+ * Gained experience in Python programming, including the use of libraries such as pandas for data manipulation.
+ * Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to create a chatbot that provides user-friendly financial insights and analysis.
+
 ## Features
 - 📊 **Data Loading & Inspection:** Reads and summarizes datasets, displaying key metadata.
 - 📈 **Financial Growth Analysis:** Computes revenue, net income, assets, liabilities, and cash flow growth trends.
